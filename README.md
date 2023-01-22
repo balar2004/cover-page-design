@@ -149,11 +149,11 @@ Add images and other contents using CSS record a screenshot of it.
 
 ## OUTPUT:
 
-![Output](./output.jpg)
+![coverpage](https://user-images.githubusercontent.com/118791778/213913068-3376cefb-28f6-4f3a-92a9-50a008bffc07.png)
 
 ## Validation:
 
-![Output](./validator.jpg)
+![validator](https://user-images.githubusercontent.com/118791778/213913080-a1b9579b-6714-43cb-848f-c9d74a1637ad.png)
 
 ## Result:
 
